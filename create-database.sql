@@ -1,6 +1,6 @@
-CREATE DATABASE example_db;
+CREATE DATABASE IF NOT EXISTS example_db;
 USE DATABASE example_db;
-CREATE SCHEMA example_schema;
+CREATE SCHEMA IF NOT EXISTS example_schema;
 USE SCHEMA example_schema;
 
 CREATE OR REPLACE TABLE employees(id NUMBER, name VARCHAR, role VARCHAR);
