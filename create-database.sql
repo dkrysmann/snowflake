@@ -1,4 +1,4 @@
-employeesCREATE DATABASE example_db;
+CREATE DATABASE example_db;
 USE DATABASE example_db;
 CREATE SCHEMA example_schema;
 USE SCHEMA example_schema;
