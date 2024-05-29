@@ -11,6 +11,6 @@ INSERT INTO employees (id, name, role) VALUES
 (4, 'Darek', 'op'), 
 (5, 'Jean-Paul', 'op'), 
 (6, 'Maurice', 'dev'), 
-(7, 'Peter', 'dev')
+(7, 'Peter', 'dev'),
 (8, 'Davina', 'op')
 ;
